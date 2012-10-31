@@ -1,6 +1,10 @@
 ca
 ==
 
-Cellular automata simulator in Python
+Cellular automata simulator in Python.
 
-One purpose is to create a reference model for hardware implementations.
+I created this for two purposes. One is to get insight in cellular
+automata. The second is to a reference model for hardware
+implementations.
+
+
