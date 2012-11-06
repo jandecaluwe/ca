@@ -1,4 +1,3 @@
-
 from ca.base.life import Life
 from ca.base.gui import play
 
